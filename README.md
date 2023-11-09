@@ -1,3 +1,3 @@
 # React
 
-this contians react topics and mutli snall demo apps  
+this repo contians react topics and mutli snall demo apps  
